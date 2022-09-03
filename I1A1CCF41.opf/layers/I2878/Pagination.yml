@@ -1,0 +1,16 @@
+id: b38b1f68b95f4b85899a8ce69a78de18
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  1f559d99095f4d6caa899e32db19cd0a:
+    span:
+      start: 0
+      end: 760
+    imgnum: 1
+    reference: 28780001.tif
+  90ec62c4d1b14dbfa313ec0d96cc6e78:
+    span:
+      start: 761
+      end: 2160
+    imgnum: 2
+    reference: 28780002.tif
